@@ -1,3 +1,3 @@
 # Codewars
-repository for codewar
+#repository for codewar
 Adding my python codes for katas of Codewars
