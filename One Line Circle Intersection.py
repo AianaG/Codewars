@@ -1,0 +1,1 @@
+from numpy import*;circleIntersection=lambda a,b,r:r*r*(lambda x:x<1and arccos(x)-x*(1-x*x)**.5)(hypot(*subtract(a,b))/r/2)//.5
